@@ -34,7 +34,7 @@ hey! i'm Shedeggsky 👋
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,c,cpp,java,bash,linux,nixos,git,github,githubactions,vscode,androidstudio,sqlite,cmake,docker,vercel,cloudflare,nginx,arduino,blender&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,rust,nodejs,php,c,cpp,java,lua,bash,linux,bsd,kali,ubuntu,discord,git,github,githubactions,vscode,vim,androidstudio,sqlite,cmake,docker,vercel,cloudflare,nginx,qt,arduino,raspberrypi,blender&theme=dark&perline=9" />
 </a>
 
 <br><br>
