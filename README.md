@@ -8,7 +8,7 @@
 
 **building things that are actually fun to use.**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Shedeggsky&style=for-the-badge&color=7c3aed)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shedeggsky&style=for-the-badge&color=7c3aed)](https://github.com/Shedeggsky)
 [![GitHub followers](https://img.shields.io/github/followers/Shedeggsky?style=for-the-badge&color=22d3ee&labelColor=111827)](https://github.com/Shedeggsky?tab=followers)
 
 </div>
@@ -62,7 +62,12 @@ hey! i'm Shedeggsky 👋
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Shedeggsky&theme=transparent&hide_border=true&ring=7c3aed&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=64748b" width="70%"/>
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com/?user=Shedeggsky&theme=transparent&hide_border=true&currStreakLabel=A78BFA&sideLabels=94A3B8&ring=7C3AED&fire=22D3EE"
+    alt="GitHub Streak"
+  />
+</a>
 
 </div>
 
