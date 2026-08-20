@@ -50,13 +50,13 @@ hey! i'm Shedeggsky 👋
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shedeggsky&show_icons=true&hide_border=true&theme=transparent&title_color=a78bfa&text_color=94a3b8&icon_color=22d3ee&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shedeggsky&show_icons=true&hide_border=true&theme=transparent&title_color=a78bfa&text_color=94a3b8&icon_color=22d3ee&rank_icon=github&cache_seconds=86400" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shedeggsky&layout=compact&hide_border=true&theme=transparent&title_color=a78bfa&text_color=94a3b8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shedeggsky&layout=compact&hide_border=true&theme=transparent&title_color=a78bfa&text_color=94a3b8&cache_seconds=86400" width="49%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Shedeggsky&theme=transparent&hide_border=true&ring=7c3aed&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=64748b" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=Shedeggsky&theme=transparent&hide_border=true&ring=7c3aed&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=64748b" width="70%"/>
 
 </div>
 
