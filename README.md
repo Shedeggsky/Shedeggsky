@@ -99,9 +99,7 @@ Basic
 </td>
 <td width="50%">
 
-### 🧑‍💻😭 
-
-NixOS (very hard)
+### 🧑‍💻😭 NixOS (very hard)
 
 **Stack:** `Linux`
 
