@@ -4,7 +4,7 @@
 
 ### `developer` · `maker` · `tech enjoyer` · `rma lover`
 
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=linux+guy;officialy+coupled+up%F0%9F%98%82%F0%9F%A4%A3%F0%9F%A4%A3;doomscrollin+till+new+ideas+pop+up;building+things+that+are+actually+fun+to+use)](https://git.io/typing-svg)**
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=linux+guy;officialy+coupled+up%F0%9F%98%82%F0%9F%A4%A3%F0%9F%A4%A3;doomscrollin+till+new+ideas+pop+up;making+ports+for+distros+that+work)](https://git.io/typing-svg)**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Shedeggsky&style=for-the-badge&color=7c3aed)](https://github.com/Shedeggsky)
 [![GitHub followers](https://img.shields.io/github/followers/Shedeggsky?style=for-the-badge&color=22d3ee&labelColor=111827)](https://github.com/Shedeggsky?tab=followers)
