@@ -84,7 +84,10 @@ hey! i'm Shedeggsky 👋
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shedeggsky/Shedeggsky/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shedeggsky/Shedeggsky/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Shedeggsky/Shedeggsky/output/snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+</picture>
 
 </div>
 
