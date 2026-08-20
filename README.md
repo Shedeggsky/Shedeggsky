@@ -62,15 +62,12 @@ hey! i'm Shedeggsky 👋
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com/?user=Shedeggsky&theme=transparent&hide_border=true&currStreakLabel=A78BFA&sideLabels=94A3B8&ring=7C3AED&fire=22D3EE"
-    alt="GitHub Streak"
-  />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shedeggsky/Shedeggsky/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Shedeggsky/Shedeggsky/output/snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+</picture>
 
 </div>
-
 ---
 
 ## 📈 Activity
