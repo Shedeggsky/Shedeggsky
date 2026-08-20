@@ -41,6 +41,7 @@ hey! i'm Shedeggsky 👋
 
 <img src="https://img.shields.io/badge/KISS_Linux-161B22?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Exherbo-161B22?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/NixOS-161B22?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
 
 </div>
 
