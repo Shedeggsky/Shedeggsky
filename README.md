@@ -104,7 +104,7 @@ hey! i'm Shedeggsky 👋
 
 ### 🧑‍💻 First Repository
 
-Basic
+Fedora on Android 🫪🫪🫪
 
 **Stack:** `Linux`
 
