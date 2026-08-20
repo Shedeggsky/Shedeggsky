@@ -32,15 +32,27 @@ hey! i'm Shedeggsky 👋
 ## ⚡ Tech Stack
 
 <div align="center">
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+![C++](https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Android Studio](https://img.shields.io/badge/Android_Studio-161B22?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+![Bash](https://img.shields.io/badge/Bash-161B22?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![SQLite](https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Termux](https://img.shields.io/badge/Termux-161B22?style=for-the-badge&logo=termux&logoColor=FFFFFF)
+
+![Assembly](https://img.shields.io/badge/Assembly-161B22?style=for-the-badge&logo=assemblyscript&logoColor=9F9F9F)
 
 </div>
 
