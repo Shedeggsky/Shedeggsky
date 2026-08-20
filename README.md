@@ -1,8 +1,10 @@
-# ✦ Shedeggsky
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:22d3ee,100:34d399&height=180&section=header&text=Shedeggsky&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<div align="center">
+  <h1 style="color:#A78BFA;">✦ Shedeggsky</h1>
+</div>
 
 ### `developer` · `maker` · `tech enjoyer` · `rma lover`
 
