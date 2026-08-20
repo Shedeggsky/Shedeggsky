@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:22d3ee,100:34d399&height=180&section=header&text= ✦ Shedeggsky&fontSize=52&fontColor=a78bfa&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:22d3ee,100:34d399&height=180&section=header&text=%E2%9C%A6%20Shedeggsky&fontSize=52&fontColor=a78bfa&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ### `developer` · `maker` · `tech enjoyer` · `rma lover`
 
