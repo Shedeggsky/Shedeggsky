@@ -58,6 +58,16 @@ hey! i'm Shedeggsky 👋
 
 ---
 
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Shedeggsky&theme=transparent&hide_border=true&ring=7c3aed&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=64748b" width="70%"/>
+
+</div>
+
+---
+
 ## 📈 Activity
 
 <div align="center">
