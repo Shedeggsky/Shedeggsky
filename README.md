@@ -132,6 +132,7 @@ Fedora on Android 🫪🫪🫪
 [![Roblox](https://img.shields.io/badge/Roblox-111827?style=for-the-badge&logo=roblox&logoColor=ffffff)](https://www.roblox.com/users/2870980967/profile)
 
 ### `thanks for stopping by :)`
+### `I`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,50:22d3ee,100:7c3aed&height=100&section=footer" width="100%"/>
 
