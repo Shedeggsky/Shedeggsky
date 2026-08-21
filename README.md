@@ -49,9 +49,9 @@ hey! i'm Shedeggsky 👋
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Shedeggsky&show_icons=true&hide_border=true&theme=transparent&title_color=a78bfa&text_color=94a3b8&icon_color=22d3ee&rank_icon=github" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Shedeggsky&show_icons=true&hide_border=true&theme=transparent&title_color=a78bfa&text_color=94a3b8&icon_color=22d3ee&rank_icon=github" width="50%"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shedeggsky&layout=compact&hide_border=true&theme=transparent&title_color=a78bfa&text_color=94a3b8" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shedeggsky&layout=compact&hide_border=true&theme=transparent&title_color=a78bfa&text_color=94a3b8" width="50%"/>
 
 </div>
 
