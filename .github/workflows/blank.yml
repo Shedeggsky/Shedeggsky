@@ -23,7 +23,12 @@ jobs:
           options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
+          theme: transparent
+          hide_border: true
+          currStreakLabel: A78BFA
+          sideLabels: 94A3B8
+          ring: 7C3AED
+          fire: 22D3EE
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
